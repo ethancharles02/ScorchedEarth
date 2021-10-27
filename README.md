@@ -19,7 +19,7 @@ into using OpenGL ES but there were a lot of problems I was running into related
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add tanks and physics for those tanks
+* Add multiplayer and touch controls to play the game
+* Add weapons for the tanks
+* Add menu options for configuring the game
